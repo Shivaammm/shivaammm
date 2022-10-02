@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/Shivaammm.)
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">A passionate frontend and android developer from India</h3>
-<img align="right" alt="Coding width="200" src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg">
+<img align="right" alt="Coding width="50" src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivaammm&label=Profile%20views&color=0e75b6&style=flat" alt="shivaammm" /> </p>
